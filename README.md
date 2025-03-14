@@ -11,7 +11,7 @@ You can use this project in two ways:
 
 ## 📸 Screenshot
 ![Image](https://github.com/user-attachments/assets/9d8a440a-e18f-40b9-9c67-24f80dffc938)
-
+![Image](https://github.com/user-attachments/assets/e34d1078-37a5-4c42-bff6-452917d60bb0)
 ---
 
 ## 📊 Dataset
