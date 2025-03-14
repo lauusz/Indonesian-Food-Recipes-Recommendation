@@ -1,7 +1,2 @@
 venv/
 __pycache__/
-*.pyc
-*.pyo
-*.pkl
-*.h5
-dataset-update.csv
