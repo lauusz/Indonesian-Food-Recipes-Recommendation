@@ -9,6 +9,9 @@ You can use this project in two ways:
 - **🌍 Web App (Streamlit UI):** A user-friendly interactive web interface.
 - **🔗 API (Flask):** A backend service for seamless integration into other applications.
 
+## 📸 Screenshot
+![Image](https://github.com/user-attachments/assets/9d8a440a-e18f-40b9-9c67-24f80dffc938)
+
 ---
 
 ## 📊 Dataset
