@@ -24,10 +24,9 @@ Follow these simple steps to set up and run the project on your local machine! 
 First, clone this repository and move into the project directory:
 ```bash
 # Clone the project from GitHub
-git clone https://github.com/USERNAME/food-recommendation-ml.git
+git clone https://github.com/lauusz/Indonesian-Food-Recipes-Recommendation.git
 cd food-recommendation-ml
 ```
-_(Replace `USERNAME` with your actual GitHub username)_
 
 ### üèó 2. Create a Virtual Environment
 Before installing the dependencies, create a virtual environment:
